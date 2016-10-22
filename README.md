@@ -1,5 +1,8 @@
 # twitterMap
 
+* The connection.js and config.py files are mainly about the twitter api key and AWS access key so they are not uploaded for security consideration.
+* This repository also contains two json files about the node module info and iam policy info. These are used when deploying the web app on AWS elastic Beanstalk.
+
 ##FUNCTION
 
 Twitter Map gives user a Web UI with google map to search for tweets with specific keyword and render search results on the map. The markers are clickable with tweet content in info window.
